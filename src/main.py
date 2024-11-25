@@ -1,5 +1,5 @@
 4
-from 1calculator import add, subtract, multiply, divide
+from calculator import add, subtract, multiply, divide
 
 def main():
     print("Simple Calculator")
